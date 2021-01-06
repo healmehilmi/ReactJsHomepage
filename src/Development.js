@@ -9,7 +9,6 @@ import './styles/Development.css';
 import Aos  from 'aos';
 import "aos/dist/aos.css";
 import './styles/BackgroundVideo.module.css';
-import {Link} from "react-router-dom";
 import Links from "./Links";
 import { useLocation } from 'react-router-dom';
 import Scroll from './Scroll';

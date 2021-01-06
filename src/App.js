@@ -46,7 +46,6 @@ function App() {
         <ScrollToTop />
          <Header />
           <Ui_Ux />
-        
           <Footer />
         </Route>
         <Route path="/storyboard">

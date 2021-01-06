@@ -3,15 +3,10 @@ import foto from './images/ben.png';
 import conteiner1__foto from './images/ar.png';
 import conteiner2__foto from './images/fly.png';
 import './styles/Home.css';
-import Button from '@material-ui/core/Button';
 import Aos  from 'aos';
 import "aos/dist/aos.css";
 import './styles/BackgroundVideo.module.css';
 import Scroll from './Scroll';
-
-
-
-
 
 
     const Home =()=>{

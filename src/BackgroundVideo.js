@@ -2,7 +2,6 @@ import React from 'react';
 import './styles/BackgroundVideo.module.css';
 import classes from './styles/BackgroundVideo.module.css';
 import back from './back.mp4';
-import {Link} from "react-router-dom";
 
 
 
