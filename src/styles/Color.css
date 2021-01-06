@@ -1,0 +1,164 @@
+.big_color{
+    background-color: #f2f2f2;
+}
+.coloring_foto{
+  width: 80%;
+
+    
+}
+@media only screen and (max-width: 767px){
+    .coloring_foto{
+        width: 60%;
+    }}
+.coloring_fir{
+    width: 90%;
+  
+      
+  }
+  @media only screen and (max-width: 767px){
+    .coloring_fir{
+       display: none;
+    }}
+
+  .coloring_fir_2{
+    width: 80%;
+    
+  }
+  @media only screen and (max-width: 767px){
+    .coloring_fir_2{
+       display: none;
+    }}
+.Coloring_inside{
+   display: flex;
+   justify-content: space-around;
+  max-width: 800px;
+    align-items: center;
+    margin: auto;
+
+}
+.Coloring_main{
+    text-align: center;
+}
+.Coloring_box{
+    height: 355px;
+    background-color: white;
+    padding: 40px 44px;
+    margin: 40px 40px;
+    display: flex;
+
+
+}
+@media only screen and (max-width: 767px){
+    .Coloring_box{
+        margin: 0;
+        padding: 0;
+        height: 260px;
+        background-color: #f2f2f2;
+    }}
+
+.color_h2{
+    color: rgb(224 56 54);
+ 
+    padding-top:40px;
+    font-size: 90px;
+}@media only screen and (max-width: 767px){
+    .color_h2{
+        font-size: 32px;
+    }}
+
+h6{
+    font-size: 25px;
+    margin: 0;
+}
+@media only screen and (max-width: 767px){
+    h6{
+        font-size: 16px;
+    }}
+a{
+    color: #de3b41;
+    text-decoration: none;
+}
+
+
+.moodboard{
+    font-size: 17px;
+    line-height: 1.5294717647;
+    font-weight: 400;
+    letter-spacing: -0.021em;
+    font-family: "SF Pro Text","SF Pro Icons","Helvetica Neue","Helvetica","Arial",sans-serif;
+    color: #333;
+    font-style: normal;
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+    background-color: #ffffff;
+    height: 500px;
+    text-align: left;
+    padding: 40px 44px;
+    margin: 0px 40px;
+}
+
+@media only screen and (max-width: 767px){
+    .moodboard{
+       flex-direction: column;
+       margin: 0;
+       background-color: #f2f2f2;
+    }
+    }
+.moodboard_foto{
+    max-height: 100%;
+}
+
+@media only screen and (max-width: 767px){
+    .moodboard_foto{
+        max-height: 50%;
+    }
+    }
+
+
+.moodboard_h3{
+    color: rgb(0, 0, 0);
+}
+.moodboard_h5{
+    color: rgb(0, 0, 0);
+    font-size: 20px;
+    text-align: left;
+}
+
+
+.moodboard_container_2{
+    font-size: 17px;
+    line-height: 1.5294717647;
+    font-weight: 400;
+    letter-spacing: -0.021em;
+    font-family: "SF Pro Text","SF Pro Icons","Helvetica Neue","Helvetica","Arial",sans-serif;
+    color: #333;
+    font-style: normal;
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+    padding: 40px 44px;
+    margin: 40px 40px;
+    background-color: #ffffff;
+    height: 500px;
+}
+@media only screen and (max-width: 767px){
+    .moodboard_container_2{
+        padding: 27px 23px;
+        margin: 0;
+        background-color: #f2f2f2;
+    }}
+
+
+.moodboard__text_2{
+    max-width: 500px;
+    text-align: start;
+}
+
+
+
+.moodboard_down{
+    text-align: center;
+    margin-top: 20px;
+  }
+

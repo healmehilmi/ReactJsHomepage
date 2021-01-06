@@ -1,0 +1,151 @@
+.ar_foto{
+    width: 60%;
+    height: auto;
+}
+@media only screen and (max-width: 767px){
+    .ar_foto {
+        width: 100%;
+       
+    }}
+
+.Footer{
+    background-color: #000000;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    position: sticky;
+    top: 0;
+    z-index: 100;
+    height:150px;
+   
+   
+}
+
+
+
+
+
+.adobe_box{
+    margin-bottom: 1%;
+    background: #f2f2f2;
+    height: 450px;
+    text-align: center;
+    margin-top: 1%;
+  }
+  .adobe_inside{
+    margin-left: auto;
+    margin-right: auto;
+    max-width: 800px;
+    position: relative;
+    padding-top: 90px;
+    padding-bottom: 64px;
+
+  }
+  @media only screen and (max-width: 767px){
+    .adobe_inside {
+        max-width: 300px; 
+       
+    }}
+  .design{
+      width: 30%;
+  }
+  @media only screen and (max-width: 767px){
+    .design{
+        width: 60%;
+    }}
+
+ 
+
+  .ar_box{
+    
+    height: 450px;
+    display: flex;
+  }
+  @media only screen and (max-width: 767px){
+    .ar_box{
+        height: 300px;
+    }}
+  .ar_inside{
+    background-color: #f2f2f2;
+    padding-top: 12px;
+    border-radius: 8%;
+    margin-left: 10px;
+    margin-right: 10px;
+    width: 980px;
+    overflow: hidden;
+    text-align: center;
+    
+    
+  }
+  @media only screen and (max-width: 767px){
+    .ar_inside{
+        display: none;
+    }}
+  .ar_card{
+      max-width: 245px;
+      
+  }
+  .ar{
+      width: 15%;
+  }
+  .card{
+    width: 15%;
+}
+  .card_inside{
+    margin-left: 10px;
+    margin-right: 10px;
+    width: 980px;
+    position: relative;
+    padding-top: 64px;
+    padding-bottom: 64px;
+    background-color: #f2f2f2;
+    border-radius: 8%;
+
+    
+  }
+  @media only screen and (max-width: 767px){
+    .card_inside {
+     
+        background-color: #ffffff;
+    }}
+  
+  
+  .card_inside_cont{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    text-align: center;
+    line-height: 1.6;
+
+  }
+  @media only screen and (max-width: 767px){
+    .card_inside_cont {
+        max-width: 278px;
+        position: absolute;
+        margin: auto;
+        top: 15%;
+        bottom: 0;
+        left: 0;
+        right: 0;
+        line-height: 1.6;
+       
+    }}
+  .ar_inside_cont{
+   position: relative;
+}
+
+
+.memo{
+    max-width: 30%;
+}
+@media only screen and (max-width: 767px){
+    .memo{
+        max-width: 40%;
+    }}
+
+
+
+/*frontend everything*/
+
+
+

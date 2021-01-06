@@ -1,0 +1,95 @@
+
+
+.storyboards h2{
+    color: #e23c42;
+}
+  .sketch_2_img , .sketch_3_img , .sketch_4_img{
+    width: 30%;
+    text-align: center;
+   
+   
+  }
+  .story_img{
+    
+    position: fixed;
+    margin-left: auto;
+
+    width: 100%;
+    
+      
+    
+
+  }
+
+ 
+ 
+  .sketch_1_img{
+
+    
+    max-width:100%
+
+  }
+  @media only screen and (max-width: 767px){
+    .sketch_1_img{
+      max-width:100%
+     
+     }
+     }
+  
+
+
+  .story_h{
+    text-align: center;
+    padding-top:50px;
+
+  }
+
+.story_first{
+  text-align: center;
+}
+
+.xd{
+  height:70px;
+}
+
+
+
+.story_box{
+
+  background: #f2f2f2;
+  height: 350px;
+  text-align: center;
+ 
+
+}
+.story_inside{
+  margin-left: auto;
+  margin-right: auto;
+  max-width: 800px;
+  position: relative;
+  padding-top: 90px;
+  padding-bottom: 64px;
+
+}
+@media only screen and (max-width: 767px){
+  .story_inside{
+    max-width:350px;
+   padding-bottom: 0px;
+   padding-top: 35px;
+   }
+   }
+
+.links{
+  background-color: #f5f5f7;
+    width: 49%;
+    text-align: center;
+    position: relative;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-size: 83%;
+    background-position: bottom center;
+    background-image: url(https://source.unsplash.com/collection/1072493);
+    border-radius: 8%;
+}
+
+

@@ -1,0 +1,211 @@
+.big_over{
+    text-align: center;
+}
+.over{
+    background-color: #ffc0a1;
+    border-radius: 7px;
+    height: 518px;
+    max-width: 618px;
+    align-items: center;
+    margin: auto;
+    padding-top: 40px;
+
+}
+@media only screen and (max-width: 767px){
+    .over{
+        height: 350px;
+        max-width: 300px;
+    }}
+
+.pro_main{
+    height: 430px;
+    background-color: #f4624b;
+    max-width: 510px;
+    margin: auto;
+    border-radius: 7px;
+
+}
+@media only screen and (max-width: 767px){
+    .pro_main{
+        height: 300px;
+        max-width: 270px;
+    }}
+
+.pro_nav , .pro_banner , .pro_section{
+    list-style: none;
+}
+
+.pro_nav{
+   
+    height: 50px;
+    display: flex;
+    justify-content: space-evenly;
+
+    align-items: center;
+    padding: 0;
+}
+.pro_nav li{
+    
+    
+    background-color: #d02931;
+
+    border-radius: 7px;
+}
+.pro_nav_1{
+    width: 30px;
+    height: 20px;
+}
+.pro_nav_2{
+    width: 40px;
+    height: 10px;
+}
+
+.pro_banner{
+   
+    height: 50px;
+}
+.pro_section{
+
+    height: 50px;
+}
+
+
+
+h5{
+    text-align: center;
+}
+
+
+
+
+.pro_banner{
+    
+    height: 215px;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    padding: 0;
+}
+@media only screen and (max-width: 767px){
+    .pro_banner{
+        height: 130px;
+        
+    }}
+
+.pro_banner_1{
+    width: 170px;
+    height: 150px;
+    background-color: #d02931;
+
+    border-radius: 7px;
+}
+@media only screen and (max-width: 767px){
+    .pro_banner_1{
+        height: 100px;
+        max-width: 70px;
+    }}
+.pro_banner_2{
+    width: 100px;
+    height: 150px;
+    background-color: #d02931;
+
+    border-radius: 7px;
+}
+@media only screen and (max-width: 767px){
+    .pro_banner_2{
+        height: 100px;
+        max-width: 70px;
+    }}
+.pro_banner_2 p{
+    color: rgb(236, 235, 235);
+    padding: 13px 10px;
+}
+
+.pro_section{
+    display: flex;
+    justify-content: space-around;
+    padding: 0;
+
+}
+.pro_h4{
+   
+    font-size: 40px;
+    font-weight: 600;
+    margin: 40px 40px;
+
+}
+@media only screen and (max-width: 767px){
+    .pro_h4{
+        font-size: 19px;
+    }}
+.pro_h3_main{
+    font-family: 'Indie Flower', cursive;
+    font-size: 88px;
+    font-weight: 600;
+    margin: 40px 40px;
+}
+@media only screen and (max-width: 767px){
+    .pro_h3_main{
+        font-size: 32px;
+    }}
+.pro_section li {
+   
+    display: flex;
+
+  width: 200px;
+    height: 90px;
+}
+@media only screen and (max-width: 767px){
+    .pro_section li{
+        height: 48px;
+        max-width: 90px;
+    }}
+.pro_section_1{
+    background-color: #d02931;
+   
+    
+    
+
+}
+.pro_section_2{
+    background-color: #d02931;
+   
+
+    
+
+}
+.pro_container{
+    font-size: 17px;
+    line-height: 1.5294717647;
+    font-weight: 400;
+    letter-spacing: -0.021em;
+    font-family: "SF Pro Text","SF Pro Icons","Helvetica Neue","Helvetica","Arial",sans-serif;
+    color: #333;
+    font-style: normal;
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+    margin: 67px 40px;
+    background-color: #f5f5f7;
+    height: 500px;
+}
+@media only screen and (max-width: 767px){
+    .pro_container{
+        flex-direction: column;
+        font-size: 14px;
+        margin: 0px;
+        height: 450px;
+        padding: 30px;
+    }}
+
+.proto{
+    max-width: 35%;
+}
+@media only screen and (max-width: 767px){
+    .proto{
+        max-width: 70%;
+    }}
+.proto__text{
+    max-width: 300px;
+    text-align: start;
+}

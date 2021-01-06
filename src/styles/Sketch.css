@@ -1,0 +1,37 @@
+.draw1{
+    background-image: url(../images/draw.png);
+    background-repeat: no-repeat;
+    background-size: 400px;
+  width: 400px;
+  height: 400px;
+}
+@media only screen and (max-width: 767px){
+  .draw1{
+    background-size: 300px;
+    width: 300px;
+    height: 300px;
+    margin: auto;
+      
+  }
+  }
+.draw2{
+    background-image: url(../images/draw2.png);
+    background-repeat: no-repeat;
+    
+    background-size: 400px;
+  width: 400px;
+  height: 400px;
+}
+@media only screen and (max-width: 767px){
+  .draw2{
+    background-size: 300px;
+    width: 300px;
+    height: 300px;
+    margin: auto;
+      
+  }
+  }
+.draw_container{
+   
+    height: 400px;
+}
