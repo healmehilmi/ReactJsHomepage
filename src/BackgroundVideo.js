@@ -19,7 +19,7 @@ const BackgroundVideo = () => {
 
             <div className={classes.Content}>
                 <div className={classes.SubContent} >
-                    <h2>Videograpfy </h2>
+                    <h2>Videography </h2>
                     <h5>made by Hilmi Naz</h5>
 
                  

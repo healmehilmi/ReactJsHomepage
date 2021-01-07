@@ -1,8 +1,16 @@
-import React from 'react'
+import React ,{Component} from 'react'
+import'./styles/Ar.css';
 import './styles/Arcards.css';
+import Arcard from './images/arcard.png';
+import kagit from './ars/kagit.usdz';
 
-function Arcards() {
-    return (
+
+
+class Arcards extends Component {
+    render() {
+
+        return(
+        
         <div>
             
           <section className="Arcards_box">
@@ -10,21 +18,26 @@ function Arcards() {
             <div className="Arcards_inside">
             <div className="Arcards_inside_cont">
             <h2 className="Arcards_h2">Arcards</h2>
-            <h4>almoast there</h4>
-            <p>It will be online soon.</p>
+            <p className="Arcards_p">Tap on  the card</p>
             
-               
-                
-            </div>
+            <a className="kagit_a" rel="ar" href={kagit}>
+            <img className="kagit_foto"   src={Arcard} alt="logo"/>
+           </a>
+
+            
 
             </div>
 
+           
+          
 
+             </div>
 
 
             </section>
         </div>
     )
 }
+}
 
-export default Arcards
+export default Arcards;

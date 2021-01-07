@@ -9,7 +9,7 @@ import Target from "./Target";
 import Links from "./Links";
 import Videos from "./Videos";
 import Storyboard from "./Storyboard";
-import Videograpfy from "./Videograpfy";
+import Videography from "./Videography";
 import Typography from "./Typography";
 import Headervideo from "./Headervideo";
 import Ar from "./Ar";
@@ -107,11 +107,11 @@ function App() {
           <Development />
           <Footer />
         </Route>
-        <Route path="/videograpfy">
+        <Route path="/videography">
         <ScrollToTop />
         <Header />
         <Headervideo/>
-        <Videograpfy />
+        <Videography/>
           
           <Footer />
         </Route>

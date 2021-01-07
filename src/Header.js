@@ -21,8 +21,8 @@ function Header() {
            <Link className="header__link" to="/development">
                <span>Development</span>
            </Link>
-           <Link className="header__link" to="/videograpfy">
-               <span>Videograpfy</span>
+           <Link className="header__link" to="/videography">
+               <span>Videography</span>
            </Link>
 
             
