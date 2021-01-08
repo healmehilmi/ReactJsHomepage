@@ -225,7 +225,7 @@ h4{
 
 
 .backend_img{
-    width: 30%;
+    max-width: 350px;
     text-align: center;
    
    
