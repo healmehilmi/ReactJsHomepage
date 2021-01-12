@@ -49,10 +49,10 @@ import Scroll from './Scroll';
                  <div className="adobe_inside">
                       <img  className="design" src={design} alt="foto"/>
                       <h4>My design tools</h4>
-                      <p>I use generally adobe programs to creat my contents.
+                      <p>I generally use adobe programs to creat my contents.
                       Photoshop and Illustrator for creating my design contents.
                       Lightroom for content images
-                      XD for prototyping</p>
+                      XD for prototyping.</p>
                       <a target="_blank" rel="noreferrer"  href="https://www.behance.net/healmehilmca17">Visit Behance ></a>
 
                  </div>
