@@ -66,7 +66,7 @@ import Scroll from './Scroll';
                    <div className="vs_inside_cont">
                    <img  className="vs" src={vs} alt="foto"/>
                     <h4>Visual Studio Code</h4>
-                    <p>For programing i only use Visual Code.Important part is the simplicity.</p>
+                    <p>For programing i only use Visual Studio Code. Important part is the simplicity.</p>
                    
                     
                    </div>
@@ -76,7 +76,7 @@ import Scroll from './Scroll';
                     <div  className="git_inside_cont">
                     <img  className="git" src={git} alt="foto"/>
                     <h4>Github for deployment</h4>
-                    <p>Github, we all love her right ?</p>
+                    <p>Github, we all love it right ?</p>
                     <a target="_blank" rel="noreferrer"  href=" https://github.com/healmehilmi">Visit Github ></a>
                     </div>
 
@@ -96,7 +96,7 @@ import Scroll from './Scroll';
                     <div className="front__text">
 
                             
-                            <strong>What i can ?</strong>
+                            <strong>What can I do ?</strong>
                                 <h4>Frontend development</h4>
                                 <p>I like to code things from scratch, and enjoy bringing ideas to life in the browser.</p>
                                     <p>HTML,CSS,SCSS,SASS,Vanilla JS,React JS (beginner)</p>
@@ -109,7 +109,7 @@ import Scroll from './Scroll';
                    
 
                     <div className="backend__text">
-                                <strong>What i can ?</strong>
+                                <strong>What can I also do ?</strong>
                                 <h4>Backend development</h4>
                                 <p>I learned during my collage years.
                                     PHP,Laravel,Python (beginner)</p>
