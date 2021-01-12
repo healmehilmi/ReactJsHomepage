@@ -53,11 +53,11 @@ import Scroll from './Scroll';
              
               <div  className="conteiner1__text">
 
-               <h4 >What am i doing currently ?</h4>
-               <p>At the moment i'm working as a freelancer
+               <h4 >What am I doing currently ?</h4>
+               <p>At the moment I'm working as a freelancer
                
                on website design and videography projects.
-               Right now i'm focusing on augmented reality
+               Right now I'm focusing on augmented reality
                technologie as well.</p>
               
 
@@ -74,7 +74,7 @@ import Scroll from './Scroll';
 
               <h4 >Who am i?</h4>
              
-              <p>I am web developer and graphic designer. I live in Vienna since 10 years, but originally i'm from Turkey.
+              <p>I am web developer and graphic designer. I live in Vienna since 10 years, but originally I'm from Turkey.
                   I studied web development at SAE-Vienna. 
               </p>
 
