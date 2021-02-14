@@ -44,7 +44,7 @@ function Footer() {
                     
                     <li><h2 className="footer_h2">Information</h2></li>
                     <li><p className="footer_p">This website made with Love and ReactJS.</p></li>
-                    <li><p className="footer_p">site design / logo / development © 2020 by Hilmi Naz </p></li>
+                    <li><p className="footer_p">site design / logo / development © 2021 by Hilmi Naz </p></li>
 
                    
 
